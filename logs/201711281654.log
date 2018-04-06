@@ -1,0 +1,19 @@
+2017-11-28 16:54:54,608 - BrowserEngine - INFO - You had select Chrome browser.
+2017-11-28 16:54:54,608 - BrowserEngine - INFO - The test server url is:https://www.baidu.com
+2017-11-28 16:55:00,059 - BrowserEngine - INFO - Starting Chrome browser,version:Chrome 55.0.2883.87
+2017-11-28 16:55:02,733 - BrowserEngine - INFO - Maximize the current window.
+2017-11-28 16:55:02,743 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-11-28 16:55:02,857 - BasePage - INFO - Had find the element ''successfulby xpath via value://*[@id='kw']
+2017-11-28 16:55:03,153 - BasePage - INFO - Had type 'selenium' in inputBox
+2017-11-28 16:55:03,491 - BasePage - INFO - Had find the element ''successfulby xpath via value://*[@id='su']
+2017-11-28 16:55:03,517 - BasePage - INFO - scrollToElement
+2017-11-28 16:55:08,552 - BasePage - INFO - Had find the element ''successfulby xpath via value://*[@id='kw']
+2017-11-28 16:55:08,724 - BasePage - INFO - Had type 'python' in inputBox
+2017-11-28 16:55:08,833 - BasePage - INFO - Had find the element ''successfulby xpath via value://*[@id='su']
+2017-11-28 16:55:08,972 - BasePage - INFO - The element '' was clicked.
+2017-11-28 16:55:13,365 - BrowserEngine - INFO - You had select Chrome browser.
+2017-11-28 16:55:13,366 - BrowserEngine - INFO - The test server url is:https://www.baidu.com
+2017-11-28 16:55:18,725 - BrowserEngine - INFO - Starting Chrome browser,version:Chrome 55.0.2883.87
+2017-11-28 16:55:20,937 - BrowserEngine - INFO - Maximize the current window.
+2017-11-28 16:55:20,943 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2017-11-28 16:55:20,957 - BasePage - INFO - Current page title is 百度一下，你就知道

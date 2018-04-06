@@ -1,0 +1,8 @@
+2017-09-28 15:12:18,830 - inter_test_caseb - INFO - inputdata>参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'code': 40001, 'text': '亲爱的，key不对哦。'},预期:code=40001
+2017-09-28 15:12:19,054 - inter_test_caseb - INFO - inputdata>参数:, url:http://www.tuling123.com/openapi/api
+ ,返回:{'code': 40002, 'text': '有啥事吗？'},预期:code=40002
+2017-09-28 15:12:20,175 - inter_test_caseb - INFO - inputdata>参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'code': 1001, 'request': 'GET /v2/photo/:id'},预期:code=1001&msg=uri_not_found
+2017-09-28 15:12:20,423 - inter_test_caseb - INFO - inputdata>参数:sasa, url:http://www.tuling123.com/openapi/api ,返回:{'code': 40001, 'text': '亲爱的，key不对哦。'},预期:code=40003
+2017-09-28 15:12:20,655 - inter_test_caseb - INFO - inputdata>参数:, url:http://www.tuling123.com/openapi/api
+ ,返回:{'code': 40002, 'text': '有什么想说的话，不用藏在心里，可以直接告诉我哦~'},预期:code=40004
+2017-09-28 15:12:38,616 - inter_test_caseb - INFO - inputdata>参数:, url:https://api.douban.com/v2/photo/:id ,返回:{'msg': 'uri_not_found', 'code': 1001, 'request': 'GET /v2/photo/:id'},预期:code=1001&msg=uri_not_found

@@ -1,0 +1,22 @@
+2018-04-06 17:57:14,391 - BrowserEngine - INFO - You had select Chrome browser.
+2018-04-06 17:57:14,412 - BrowserEngine - INFO - The test server url is:https://www.baidu.com
+2018-04-06 17:57:22,203 - BrowserEngine - INFO - Starting Chrome browser,version:Chrome 56.0.2924.87
+2018-04-06 17:57:26,374 - BrowserEngine - INFO - Maximize the current window.
+2018-04-06 17:57:26,375 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-04-06 17:57:26,380 - BasePage - INFO - Current page title is 百度一下，你就知道
+2018-04-06 17:57:29,466 - BrowserEngine - INFO - You had select Chrome browser.
+2018-04-06 17:57:29,468 - BrowserEngine - INFO - The test server url is:https://www.baidu.com
+2018-04-06 17:57:34,723 - BrowserEngine - INFO - Starting Chrome browser,version:Chrome 56.0.2924.87
+2018-04-06 17:57:39,172 - BrowserEngine - INFO - Maximize the current window.
+2018-04-06 17:57:39,174 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
+2018-04-06 17:57:39,327 - BasePage - INFO - Had find the element '新闻'successfulby xpath via value://*[@id='u1']/a[1]
+2018-04-06 17:57:41,830 - BasePage - INFO - The element '新闻' was clicked.
+2018-04-06 17:57:43,831 - BasePage - INFO - Sleep for 2 seconds
+2018-04-06 17:57:43,894 - BasePage - INFO - Had find the element '互联网'successfulby xpath via value://*[@id='channel-all']/div/ul/li[9]/a
+2018-04-06 17:57:46,077 - BasePage - INFO - The element '互联网' was clicked.
+2018-04-06 17:57:48,078 - BasePage - INFO - Sleep for 2 seconds
+2018-04-06 17:57:58,325 - BasePage - INFO - NoSuchElementException:Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='channel-submenu']/div/span[2]/a[1]"}
+  (Session info: chrome=56.0.2924.87)
+  (Driver info: chromedriver=2.28.455520 (cc17746adff54984afff480136733114c6b3704b),platform=Windows NT 10.0.16299 x86_64)
+
+2018-04-06 17:57:58,668 - BasePage - INFO - Had take screenshot and save to folder:/screenshots

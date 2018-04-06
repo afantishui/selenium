@@ -1,0 +1,218 @@
+:Monkey: seed=1519183973471 count=1000
+:AllowPackage: com.game37.bayechuanqi
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 5.0%
+//   1: 11.176471%
+//   2: 2.235294%
+//   3: 16.764706%
+//   4: -0.0%
+//   5: -0.0%
+//   6: 27.941175%
+//   7: 16.764706%
+//   8: 2.235294%
+//   9: 2.235294%
+//   10: 1.117647%
+//   11: 14.529411%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Sending Touch (ACTION_DOWN): 0:(726.0,15.0)
+:Sending Touch (ACTION_UP): 0:(807.8042,5.2550707)
+:Sending Touch (ACTION_DOWN): 0:(697.0,375.0)
+:Sending Touch (ACTION_UP): 0:(695.9674,350.76184)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(44.0,184.0)
+:Sending Touch (ACTION_UP): 0:(37.383934,203.11223)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=weixin://dl/business/?ticket=tcb18aa5324f2ea7b3a7399b9f1cde756 cmp=com.tencent.mm/.plugin.base.stub.WXCustomSchemeEntryActivity } in package com.tencent.mm
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=weixin://dl/business/?ticket=tcb18aa5324f2ea7b3a7399b9f1cde756 cmp=com.tencent.mm/.plugin.base.stub.WXCustomSchemeEntryActivity } in package com.tencent.mm
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1183.0,93.0)
+:Sending Touch (ACTION_UP): 0:(1159.6643,124.57536)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1060.0,1035.0)
+:Sending Touch (ACTION_UP): 0:(1065.6217,1047.918)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    //[calendar_time:2018-02-20 10:19:12.788  system_uptime:1886460]
+    // Sending event #100
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1504.0,46.0)
+:Sending Touch (ACTION_UP): 0:(1549.4117,38.250378)
+:Sending Touch (ACTION_DOWN): 0:(971.0,312.0)
+:Sending Touch (ACTION_UP): 0:(961.5552,319.6505)
+:Sending Touch (ACTION_DOWN): 0:(580.0,250.0)
+:Sending Touch (ACTION_UP): 0:(565.4111,271.95438)
+:Sending Touch (ACTION_DOWN): 0:(1561.0,461.0)
+:Sending Touch (ACTION_UP): 0:(1561.9907,449.73123)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(1823.0,766.0)
+:Sending Touch (ACTION_UP): 0:(1824.1992,751.2393)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.FileNotFoundException: /dev/input/event0: open failed: EACCES (Permission denied)
+    // Injection Failed
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Sending Touch (ACTION_DOWN): 0:(324.0,1074.0)
+    //[calendar_time:2018-02-20 10:19:22.509  system_uptime:1896181]
+    // Sending event #200
+:Sending Touch (ACTION_UP): 0:(305.38797,1080.0)
+:Sending Touch (ACTION_DOWN): 0:(739.0,733.0)
+:Sending Touch (ACTION_UP): 0:(751.39856,723.66315)
+:Sending Touch (ACTION_DOWN): 0:(19.0,149.0)
+:Sending Touch (ACTION_UP): 0:(40.134335,166.62596)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.player/.ui.MusicBrowserActivity } in package com.miui.player
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.miui.player/.ui.MusicBrowserActivity } in package com.miui.player
+:Sending Touch (ACTION_DOWN): 0:(766.0,109.0)
+:Sending Touch (ACTION_UP): 0:(754.07184,128.37093)
+:Sending Touch (ACTION_DOWN): 0:(87.0,396.0)
+:Sending Touch (ACTION_UP): 0:(84.00378,400.16336)
+:Sending Touch (ACTION_DOWN): 0:(1292.0,638.0)
+:Sending Touch (ACTION_UP): 0:(1180.6644,670.4372)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] cmp=com.miui.home/.launcher.Launcher } in package com.miui.home
+:Sending Touch (ACTION_DOWN): 0:(674.0,454.0)
+:Sending Touch (ACTION_UP): 0:(568.03937,509.43317)
+:Sending Touch (ACTION_DOWN): 0:(1423.0,953.0)
+:Sending Touch (ACTION_UP): 0:(1431.1375,947.07465)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+    //[calendar_time:2018-02-20 10:19:30.186  system_uptime:1903859]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(65.0,801.0)
+:Sending Touch (ACTION_UP): 0:(69.36637,940.62366)
+:Sending Touch (ACTION_DOWN): 0:(234.0,981.0)
+:Sending Touch (ACTION_UP): 0:(172.83917,867.67584)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(745.0,157.0)
+:Sending Touch (ACTION_UP): 0:(749.54095,156.6232)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(975.0,567.0)
+:Sending Touch (ACTION_UP): 0:(1055.7344,608.9026)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(1882.0,236.0)
+:Sending Touch (ACTION_UP): 0:(1887.3527,230.90529)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2018-02-20 10:19:36.410  system_uptime:1910083]
+    // Sending event #400
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(570.0,425.0)
+:Sending Touch (ACTION_UP): 0:(557.1572,443.32703)
+:Sending Touch (ACTION_DOWN): 0:(649.0,276.0)
+:Sending Touch (ACTION_UP): 0:(599.9572,258.70358)
+:Sending Touch (ACTION_DOWN): 0:(517.0,914.0)
+:Sending Touch (ACTION_UP): 0:(428.1568,979.25494)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2018-02-20 10:19:43.475  system_uptime:1917148]
+    // Sending event #500
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Sending Touch (ACTION_DOWN): 0:(280.0,6.0)
+:Sending Touch (ACTION_UP): 0:(280.24948,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1728.0,375.0)
+:Sending Touch (ACTION_UP): 0:(1822.6989,470.0941)
+    //[calendar_time:2018-02-20 10:19:48.130  system_uptime:1921803]
+    // Sending event #600
+    //[calendar_time:2018-02-20 10:19:48.431  system_uptime:1922104]
+    // Sending event #600
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(1453.0,251.0)
+:Sending Touch (ACTION_UP): 0:(1443.7817,253.23001)
+:Sending Touch (ACTION_DOWN): 0:(813.0,429.0)
+:Sending Touch (ACTION_UP): 0:(811.9096,428.66122)
+:Sending Touch (ACTION_DOWN): 0:(627.0,815.0)
+:Sending Touch (ACTION_UP): 0:(621.6391,807.028)
+:Sending Touch (ACTION_DOWN): 0:(742.0,359.0)
+:Sending Touch (ACTION_UP): 0:(708.81335,355.2079)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Flip keyboardOpen=true
+Got IOException performing flipjava.io.FileNotFoundException: /dev/input/event0: open failed: EACCES (Permission denied)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(496.0,206.0)
+:Sending Touch (ACTION_UP): 0:(494.5176,248.62003)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    //[calendar_time:2018-02-20 10:19:55.329  system_uptime:1929001]
+    // Sending event #700
+:Sending Touch (ACTION_DOWN): 0:(685.0,260.0)
+:Sending Touch (ACTION_UP): 0:(626.4491,176.73119)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(631.0,86.0)
+:Sending Touch (ACTION_UP): 0:(641.15216,31.13262)
+:Sending Touch (ACTION_DOWN): 0:(814.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(813.70544,1061.7643)
+:Sending Touch (ACTION_DOWN): 0:(184.0,360.0)
+:Sending Touch (ACTION_UP): 0:(176.73865,377.33884)
+:Sending Touch (ACTION_DOWN): 0:(1007.0,929.0)
+:Sending Touch (ACTION_UP): 0:(961.4534,870.3283)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+    //[calendar_time:2018-02-20 10:20:02.535  system_uptime:1936207]
+    // Sending event #800
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.game37.bayechuanqi/.AppActivity;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.game37.bayechuanqi/.AppActivity } in package com.game37.bayechuanqi
+:Sending Touch (ACTION_DOWN): 0:(1659.0,672.0)
+:Sending Touch (ACTION_UP): 0:(1673.5533,689.402)
+:Sending Touch (ACTION_DOWN): 0:(484.0,906.0)
+:Sending Touch (ACTION_UP): 0:(380.4065,799.5051)
+:Sending Touch (ACTION_DOWN): 0:(324.0,480.0)
+:Sending Touch (ACTION_UP): 0:(322.67838,489.13016)
+:Sending Touch (ACTION_DOWN): 0:(481.0,278.0)
+:Sending Touch (ACTION_UP): 0:(513.53546,213.44661)
+:Sending Touch (ACTION_DOWN): 0:(1081.0,289.0)
+:Sending Touch (ACTION_UP): 0:(1072.8177,271.78302)
+:Sending Touch (ACTION_DOWN): 0:(364.0,607.0)
+:Sending Touch (ACTION_UP): 0:(366.3164,594.03284)
+:Sending Flip keyboardOpen=false
+Got IOException performing flipjava.io.FileNotFoundException: /dev/input/event0: open failed: EACCES (Permission denied)
+    // Injection Failed
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1607.0,727.0)
+:Sending Touch (ACTION_UP): 0:(1557.506,616.90765)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2018-02-20 10:20:10.953  system_uptime:1944625]
+    // Sending event #900
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(762.0,313.0)
+:Sending Touch (ACTION_UP): 0:(771.16583,316.57565)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(1445.0,714.0)
+:Sending Touch (ACTION_UP): 0:(1431.8379,703.1543)
+:Sending Touch (ACTION_DOWN): 0:(639.0,927.0)
+:Sending Touch (ACTION_UP): 0:(623.18066,893.96375)
+:Sending Touch (ACTION_DOWN): 0:(1037.0,756.0)
+:Sending Touch (ACTION_UP): 0:(1052.3533,720.202)
+:Sending Touch (ACTION_DOWN): 0:(946.0,226.0)
+:Sending Touch (ACTION_UP): 0:(1006.943,201.30142)
+:Sending Touch (ACTION_DOWN): 0:(559.0,708.0)
+:Sending Touch (ACTION_UP): 0:(567.9382,706.975)
+:Sending Touch (ACTION_DOWN): 0:(1743.0,84.0)
+:Sending Touch (ACTION_UP): 0:(1691.7587,1.0105228)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+Events injected: 1000
+:Sending rotation degree=0, persist=false
+:Dropped: keys=0 pointers=0 trackballs=0 flips=3 rotations=0
+## Network stats: elapsed time=71215ms (0ms mobile, 0ms wifi, 71215ms not connected)
+// Monkey finished
