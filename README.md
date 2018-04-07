@@ -1,6 +1,7 @@
 # selenium
 
-一个基于seleniumt的web自动化测试框架.放假有空把这个从automation_demo中分离出来,并加一下描述。
+* 一个基于selenium的web自动化测试框架
+* 从以前所写的automation_demo里面分离出来。(https://github.com/afantishui/python_automation_demo)
 
 ## 所需组件
 
